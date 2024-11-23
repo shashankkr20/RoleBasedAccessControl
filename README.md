@@ -1,6 +1,6 @@
-# Admin Dashboard for User and Role Management
+# Role Based Access Control for User and Role Management
 
-This project is an **Admin Dashboard** built using **React** for managing users, roles, and permissions. It provides an intuitive interface for administrators to view, edit, add, and delete users, as well as manage user roles and their associated permissions.
+This project is an **Role Based Access Control** built using **React** for managing users, roles, and permissions. It provides an intuitive interface for administrators to view, edit, add, and delete users, as well as manage user roles and their associated permissions.
 
 ## Features
 
