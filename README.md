@@ -40,7 +40,24 @@ To run this project locally, follow these steps:
 2. Navigate to the project folder:
    
    ```bash
-   cd admin-dashboard
+   cd RoleBasedAccessControl
+
+3. Install dependencies:
+   
+   ```bash
+   npm install
+
+4. Start the development server:
+   
+   ```bash
+   npm start
+
+## Live Demo
+
+You can view the live version of this project at:
+
+**[Live Demo Link](https://rolebasedaccesscontrol.onrender.com)**   
+
 
 
 
